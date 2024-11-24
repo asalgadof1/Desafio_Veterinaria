@@ -1,0 +1,21 @@
+{
+    "name": "veterinaria-js",
+    "version": "1.0.0",
+    "description": "Aplicación backend para registrar y leer citas de una veterinaria",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No test specified\" && exit 1"
+    },
+    "keywords": [
+        "node",
+        "veterinaria",
+        "citas",
+        "backend"
+    ],
+    "author": "Tu Nombre",
+    "license": "ISC",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
